@@ -1,112 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d4b22464-03e0-47ea-9360-8adff3a6af3c" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.commitlintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.husky/commit-msg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.husky/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.lintstagedrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.prettierignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.prettierrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.stylelintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.stylelintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/extensions.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/vue.code-snippets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/vite.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/build.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/scripts/common.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/scripts/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/scripts/vue.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/src/generateConfig/external.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/src/generateConfig/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/src/generateConfig/lib.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/src/generateConfig/options.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/src/generateConfig/pluginMoveDts.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/src/generateConfig/pluginSetPackageJson.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/src/generateConfig/plugins.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/src/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/src/utils/formatVar.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/src/utils/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/src/utils/json.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/src/utils/resolvePath.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/src/utils/typeCheck.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/build/vite.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/button/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/button/src/button.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/button/src/button.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/button/src/button.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/button/src/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/button/vite.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/config-provider/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/config-provider/src/config-provider.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/config-provider/src/config-provider.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/config-provider/src/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/config-provider/vite.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/icons/icons/alert-marked.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/icons/icons/alert.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/icons/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/icons/src/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/icons/vite.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/input/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/input/src/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/input/src/input.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/input/vite.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/shared/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/shared/src/hello.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/shared/src/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/shared/src/typeCheck.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/shared/src/types/InferVueDefaults.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/shared/src/types/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/shared/vite.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/theme/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/theme/presets/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/theme/presets/tiny.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/unoPreset.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/unocss/base.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/unocss/button/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/unocss/button/rules.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/unocss/button/shortcuts.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/unocss/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/unocss/theme.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/unocss/utils/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/unocss/utils/shortcuts.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/unocss/utils/toSafeList.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/utils/colors.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/utils/cssVars.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/utils/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/utils/toTheme.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/vars/button.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/vars/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/src/vars/theme.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/styles/vite.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/ui/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/ui/src/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/ui/vite.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-workspace.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-workspace.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.base.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.base.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.eslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.node.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.node.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.src.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uno.config.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,10 +20,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2UvHDddczwiWNOfqK0gYhEbHqik" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -141,7 +42,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.standard": "",
     "node.js.selected.package.stylelint": "D:\\licaige\\openx-ui-licaige\\node_modules\\stylelint",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "pnpm",
+    "prettier.import.notification.dismissed": "true",
     "ts.external.directory.path": "D:\\licaige\\openx-ui-licaige\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
