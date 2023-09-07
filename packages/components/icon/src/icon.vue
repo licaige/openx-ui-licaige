@@ -15,10 +15,8 @@ defineOptions({
 })
 const bem = useNamespace('icon')
 const props = defineProps(iconProps)
-
 const style = computed<CSSProperties>(() => {
   if (!props.size && !props.color) return {}
-
   return {
     fontSize: isUndefined(props.size) ? undefined : addUnit(props.size),
     '--color': props.color,
