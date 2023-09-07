@@ -1,4 +1,4 @@
-import { isNumber, isString } from '../types'
+import { isNumber, isObject, isString } from '../types'
 import { debugWarn } from '../error'
 
 const SCOPE = 'utils/dom/style'

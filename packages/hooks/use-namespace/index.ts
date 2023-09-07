@@ -113,13 +113,3 @@ export const useNamespace = (block: string) => {
 }
 
 export type UseNamespaceReturn = ReturnType<typeof useNamespace>
-/*
-*
-创建块 el-form、
-创建元素 el-input__inner、
-创建块修改器 el-form--default、
-创建块后缀元素 el-form-item、
-创建元素修改器 el-scrollbar__wrap--hidden-default、
-创建动作状态 例如：is-success is-required
-*
-* */
